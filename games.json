@@ -1,0 +1,44 @@
+{
+  "games": [
+    {
+      "id": "animalmerge",
+      "name": "Animal Merge",
+      "bundleId": "com.animalmerge.app",
+      "tagline": "Merge cute animals!",
+      "icon": "🐄",
+      "featured": true
+    },
+    {
+      "id": "blockcrunch",
+      "name": "Block Crunch",
+      "bundleId": "com.blockcrunch.app",
+      "tagline": "Fill rows, crush blocks!",
+      "icon": "🧩",
+      "featured": false
+    },
+    {
+      "id": "boxwar",
+      "name": "BoxWar",
+      "bundleId": "com.boxwar.app",
+      "tagline": "Conquer the grid!",
+      "icon": "⚔️",
+      "featured": false
+    },
+    {
+      "id": "georacer",
+      "name": "GeoRacer",
+      "bundleId": "com.georacer.app",
+      "tagline": "Race through countries!",
+      "icon": "🌍",
+      "featured": false
+    },
+    {
+      "id": "curlcrush",
+      "name": "CurlCrush",
+      "bundleId": "com.curlcrush.app",
+      "tagline": "Curling meets Tetris!",
+      "icon": "🥌",
+      "featured": false
+    }
+  ]
+}
