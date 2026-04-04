@@ -26,9 +26,9 @@
     },
     {
       "id": "georacer",
-      "name": "GeoRacer",
-      "bundleId": "com.georacer.app",
-      "tagline": "Race through countries!",
+      "name": "Capital Drift",
+      "bundleId": "com.capitaldrift.app",
+      "tagline": "Drive & quiz through countries!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false
     },
