@@ -5,7 +5,7 @@
       "name": "Animal Merge",
       "bundleId": "com.animalmerge.app",
       "tagline": "Merge cute animals!",
-      "icon": "🐄",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/animalmerge.png",
       "featured": true
     },
     {
@@ -13,7 +13,7 @@
       "name": "Block Crunch",
       "bundleId": "com.blockcrunch.app",
       "tagline": "Fill rows, crush blocks!",
-      "icon": "🧩",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/blockcrunch.png",
       "featured": false
     },
     {
@@ -21,7 +21,7 @@
       "name": "BoxWar",
       "bundleId": "com.boxwar.app",
       "tagline": "Conquer the grid!",
-      "icon": "⚔️",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/boxwar.png",
       "featured": false
     },
     {
@@ -29,7 +29,7 @@
       "name": "GeoRacer",
       "bundleId": "com.georacer.app",
       "tagline": "Race through countries!",
-      "icon": "🌍",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false
     },
     {
@@ -37,7 +37,7 @@
       "name": "CurlCrush",
       "bundleId": "com.curlcrush.app",
       "tagline": "Curling meets Tetris!",
-      "icon": "🥌",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/curlcrush.png",
       "featured": false
     }
   ]
