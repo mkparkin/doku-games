@@ -16,7 +16,7 @@
       "tagline": "Fill rows, crush blocks!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/blockcrunch.png",
       "featured": false,
-      "minVersion": "2.0"
+      "minVersion": "1"
     },
     {
       "id": "boxwar",
@@ -25,7 +25,7 @@
       "tagline": "Conquer the grid!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/boxwar.png",
       "featured": false,
-      "minVersion": "2.1"
+      "minVersion": "1"
     },
     {
       "id": "georacer",
@@ -34,7 +34,7 @@
       "tagline": "Drive & quiz through countries!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false,
-      "minVersion": "1.1"
+      "minVersion": "1"
     },
     {
       "id": "curlcrush",
