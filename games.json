@@ -34,7 +34,7 @@
       "tagline": "Drive & quiz through countries!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false,
-      "minVersion": "1"
+      "minVersion": "1.1"
     },
     {
       "id": "curlcrush",
