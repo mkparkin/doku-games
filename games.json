@@ -7,7 +7,7 @@
       "tagline": "Merge cute animals!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/animalmerge.png",
       "featured": true,
-      "minVersion": "1.5"
+      "minVersion": "1.8"
     },
     {
       "id": "blockcrunch",
@@ -34,7 +34,7 @@
       "tagline": "Drive & quiz through countries!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false,
-      "minVersion": "1.1"
+      "minVersion": "1.3"
     },
     {
       "id": "curlcrush",
