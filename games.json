@@ -44,6 +44,15 @@
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/curlcrush.png",
       "featured": false,
       "minVersion": "1.0"
+    },
+    {
+      "id": "darkmaze",
+      "name": "Dark Maze",
+      "bundleId": "com.karanlikmazeLastLight.app",
+      "tagline": "A flashlight, a maze, something else.",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/darkmaze.png",
+      "featured": true,
+      "minVersion": "1.0"
     }
   ]
 }
