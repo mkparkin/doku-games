@@ -7,7 +7,7 @@
       "tagline": "Merge cute animals!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/animalmerge.png",
       "featured": true,
-      "minVersion": "1.9"
+      "minVersion": "2.1"
     },
     {
       "id": "blockcrunch",
