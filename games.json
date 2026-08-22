@@ -64,7 +64,7 @@
       "id": "behave",
       "name": "Behave or Misbehave",
       "bundleId": "com.dokugames.behave",
-      "tagline": "Did you behave today?",
+      "tagline": "Keep track of good behaviors.",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/behave.png",
       "featured": false,
       "minVersion": "1",
