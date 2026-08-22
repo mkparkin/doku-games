@@ -7,7 +7,8 @@
       "tagline": "Merge cute animals!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/animalmerge.png",
       "featured": true,
-      "minVersion": "2.2"
+      "minVersion": "2.2",
+      "category": "fun"
     },
     {
       "id": "boxwar",
@@ -16,7 +17,8 @@
       "tagline": "Conquer the grid!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/boxwar.png",
       "featured": false,
-      "minVersion": "2.3"
+      "minVersion": "2.3",
+      "category": "fun"
     },
     {
       "id": "georacer",
@@ -25,7 +27,8 @@
       "tagline": "Drive & quiz through countries!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false,
-      "minVersion": "1.3"
+      "minVersion": "1.3",
+      "category": "fun"
     },
     {
       "id": "darkmaze",
@@ -34,7 +37,38 @@
       "tagline": "A flashlight, a maze, something else.",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/darkmaze.png",
       "featured": true,
-      "minVersion": "1.0"
+      "minVersion": "1.0",
+      "category": "fun"
+    },
+    {
+      "id": "factorsafari",
+      "name": "Factor Safari",
+      "bundleId": "com.dokugames.factorsafari",
+      "tagline": "Find the product, clear the board",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/factorsafari.png",
+      "featured": false,
+      "minVersion": "1",
+      "category": "brain"
+    },
+    {
+      "id": "figured",
+      "name": "Figured Out",
+      "bundleId": "com.dokugames.figured",
+      "tagline": "Geometry puzzles, drawn to scale",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/figured.png",
+      "featured": false,
+      "minVersion": "1",
+      "category": "brain"
+    },
+    {
+      "id": "behave",
+      "name": "Behave or Misbehave",
+      "bundleId": "com.dokugames.behave",
+      "tagline": "Did you behave today?",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/behave.png",
+      "featured": false,
+      "minVersion": "1",
+      "category": "life"
     }
   ]
 }
