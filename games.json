@@ -69,6 +69,15 @@
       "featured": false,
       "minVersion": "1",
       "category": "life"
+    },
+    {
+      "id": "cargobloom",
+      "name": "Cargo Bloom",
+      "bundleId": "com.cargotrain.CargoExpress",
+      "tagline": "Load the train, grow the town!",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/cargobloom.png",
+      "featured": false,
+      "minVersion": "1.0"
     }
   ]
 }
