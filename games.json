@@ -77,7 +77,28 @@
       "tagline": "Route trains, build a town",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/cargobloom.png",
       "featured": false,
-      "minVersion": "1.0"
+      "minVersion": "1.0",
+      "category": "fun"
+    },
+    {
+      "id": "canyondash",
+      "name": "Canyon Dash",
+      "bundleId": "com.canyondash.app",
+      "tagline": "Outrun the coyote!",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/canyondash.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "fun"
+    },
+    {
+      "id": "keeps",
+      "name": "Keeps",
+      "bundleId": "com.keepsapp.app",
+      "tagline": "Remember the little things.",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/keeps.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "life"
     }
   ]
 }
