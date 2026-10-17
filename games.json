@@ -99,6 +99,16 @@
       "featured": false,
       "minVersion": "1.0",
       "category": "life"
+    },
+    {
+      "id": "pickypicnic",
+      "name": "Picky Picnic",
+      "bundleId": "com.harvester.app",
+      "tagline": "Grow, pick and serve!",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/pickypicnic.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "fun"
     }
   ]
 }
