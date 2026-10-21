@@ -1,0 +1,5 @@
+{
+  "_comment": "Read only by Figured Out's UpdateGate (Figured/Model/UpdateGate.swift, dokulabs-ai/figured), NOT by any cross-promo. minVersion is the lowest CFBundleShortVersionString users must run; anything below it is force-updated on its next online launch. Only ever raise it to a version that is ALREADY LIVE on the App Store (playbook: Operating the forced-update lever). The app ignores a floor above the live store version.",
+  "bundleId": "com.dokugames.figured",
+  "minVersion": "1.0"
+}
