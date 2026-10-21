@@ -109,6 +109,16 @@
       "featured": true,
       "minVersion": "1.0",
       "category": "fun"
+    },
+    {
+      "id": "jetroadster",
+      "name": "Jet Roadster",
+      "bundleId": "com.dokugames.jetroadster",
+      "tagline": "Program the air, flip the car!",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/jetroadster.png",
+      "featured": true,
+      "minVersion": "1.0",
+      "category": "brain"
     }
   ]
 }
