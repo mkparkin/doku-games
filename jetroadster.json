@@ -1,0 +1,5 @@
+{
+  "_comment": "Read only by Jet Roadster's UpdateGate (ios/JetRoadster/Game/UpdateService.swift in dokulabs-ai/JetRoadster). Raise minVersion only to a version that is already live on the App Store, and only for a must-update reason. Uses CFBundleShortVersionString values, e.g. 1.0, 1.1.",
+  "bundleId": "com.dokugames.jetroadster",
+  "minVersion": "1.0"
+}
