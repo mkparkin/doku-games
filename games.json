@@ -119,6 +119,16 @@
       "featured": true,
       "minVersion": "1.0",
       "category": "brain"
+    },
+    {
+      "id": "schoolday",
+      "name": "School Day",
+      "bundleId": "com.dokugames.schoolday",
+      "tagline": "Bell schedule & snow day odds",
+      "icon": "",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "life"
     }
   ]
 }
