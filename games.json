@@ -129,6 +129,16 @@
       "featured": false,
       "minVersion": "1.0",
       "category": "life"
+    },
+    {
+      "id": "naturepassport",
+      "name": "Nature Passport",
+      "bundleId": "com.dokugames.naturepassport",
+      "tagline": "Stamp every park you visit",
+      "icon": "",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "life"
     }
   ]
 }
