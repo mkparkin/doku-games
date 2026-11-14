@@ -139,6 +139,16 @@
       "featured": false,
       "minVersion": "1.0",
       "category": "life"
+    },
+    {
+      "id": "fillthebox",
+      "name": "Fill the Box",
+      "bundleId": "com.dokugames.fillthebox",
+      "tagline": "Roll, paint, fill the box!",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/fillthebox.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "brain"
     }
   ]
 }
