@@ -149,6 +149,16 @@
       "featured": false,
       "minVersion": "1.0",
       "category": "brain"
+    },
+    {
+      "id": "tiltaroo",
+      "name": "Tiltaroo",
+      "bundleId": "com.dokugames.wordparty",
+      "tagline": "Party charades for game night",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/tiltaroo.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "fun"
     }
   ]
 }
