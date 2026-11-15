@@ -122,10 +122,10 @@
     },
     {
       "id": "schoolday",
-      "name": "School Day",
+      "name": "Nextbell",
       "bundleId": "com.dokugames.schoolday",
       "tagline": "Bell schedule & snow day odds",
-      "icon": "",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/schoolday.png",
       "featured": false,
       "minVersion": "1.0",
       "category": "life"
