@@ -37,7 +37,7 @@
       "tagline": "A flashlight, a maze, something else.",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/darkmaze.png",
       "featured": true,
-      "minVersion": "1.0",
+      "minVersion": "1.5",
       "category": "fun"
     },
     {
