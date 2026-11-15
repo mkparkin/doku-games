@@ -7,7 +7,7 @@
       "tagline": "Merge cute animals!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/animalmerge.png",
       "featured": true,
-      "minVersion": "2.2",
+      "minVersion": "2.7",
       "category": "fun"
     },
     {
@@ -17,7 +17,7 @@
       "tagline": "Conquer the grid!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/boxwar.png",
       "featured": false,
-      "minVersion": "2.3",
+      "minVersion": "4.3",
       "category": "fun"
     },
     {
@@ -27,7 +27,7 @@
       "tagline": "Drive & quiz through countries!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/georacer.png",
       "featured": false,
-      "minVersion": "1.3",
+      "minVersion": "1.9",
       "category": "fun"
     },
     {
@@ -37,7 +37,7 @@
       "tagline": "A flashlight, a maze, something else.",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/darkmaze.png",
       "featured": true,
-      "minVersion": "1.0",
+      "minVersion": "1.5",
       "category": "fun"
     },
     {
@@ -67,7 +67,7 @@
       "tagline": "Keep track of good behaviors.",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/behave.png",
       "featured": false,
-      "minVersion": "1",
+      "minVersion": "1.24",
       "category": "life"
     },
     {
@@ -87,7 +87,7 @@
       "tagline": "Outrun the coyote!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/canyondash.png",
       "featured": false,
-      "minVersion": "1.0",
+      "minVersion": "1.9",
       "category": "fun"
     },
     {
