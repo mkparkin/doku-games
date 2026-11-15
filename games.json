@@ -151,6 +151,16 @@
       "category": "brain"
     },
     {
+      "id": "starjar",
+      "name": "Yay Jar",
+      "bundleId": "com.dokugames.starjar",
+      "tagline": "Reward chart, chores & allowance",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/starjar.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "life"
+    },
+    {
       "id": "tiltaroo",
       "name": "Tiltaroo",
       "bundleId": "com.dokugames.wordparty",
@@ -158,7 +168,8 @@
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/tiltaroo.png",
       "featured": false,
       "minVersion": "1.0",
-      "category": "fun"
+      "category": "fun",
+      "appStoreId": "6827176698"
     }
   ]
 }
