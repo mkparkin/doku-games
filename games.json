@@ -87,7 +87,7 @@
       "tagline": "Outrun the coyote!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/canyondash.png",
       "featured": false,
-      "minVersion": "1.0",
+      "minVersion": "1.9",
       "category": "fun"
     },
     {
