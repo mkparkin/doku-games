@@ -67,7 +67,7 @@
       "tagline": "Keep track of good behaviors.",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/behave.png",
       "featured": false,
-      "minVersion": "1",
+      "minVersion": "1.24",
       "category": "life"
     },
     {
