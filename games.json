@@ -170,6 +170,16 @@
       "minVersion": "1.0",
       "category": "fun",
       "appStoreId": "6827176698"
+    },
+    {
+      "id": "feellab",
+      "name": "Feel Lab",
+      "bundleId": "com.dokugames.util07",
+      "tagline": "Game haptics & sounds for devs",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/feellab.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "life"
     }
   ]
 }
