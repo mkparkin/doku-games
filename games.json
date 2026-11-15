@@ -17,7 +17,7 @@
       "tagline": "Conquer the grid!",
       "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/boxwar.png",
       "featured": false,
-      "minVersion": "2.3",
+      "minVersion": "4.3",
       "category": "fun"
     },
     {
