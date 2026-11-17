@@ -180,6 +180,17 @@
       "featured": false,
       "minVersion": "1.0",
       "category": "life"
+    },
+    {
+      "id": "flock",
+      "name": "Flock",
+      "bundleId": "com.dokugames.singleclick",
+      "tagline": "20 one-tap questions a day",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/flock.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "brain",
+      "appStoreId": "6826837520"
     }
   ]
 }
