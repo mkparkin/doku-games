@@ -202,6 +202,17 @@
       "minVersion": "1.0",
       "category": "brain",
       "appStoreId": "6833923522"
+    },
+    {
+      "id": "littlehop",
+      "name": "Little Hop",
+      "bundleId": "com.dokugames.util03",
+      "tagline": "Shhh... don't wake the forest!",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/littlehop.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "fun",
+      "appStoreId": "6825839566"
     }
   ]
 }
