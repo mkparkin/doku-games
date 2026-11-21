@@ -202,6 +202,17 @@
       "minVersion": "1.0",
       "category": "brain",
       "appStoreId": "6833923522"
+    },
+    {
+      "id": "fifty",
+      "name": "Fifty",
+      "bundleId": "com.dokugames.fifty",
+      "tagline": "50 US states & capitals",
+      "icon": "https://raw.githubusercontent.com/mkparkin/doku-games/main/icons/fifty.png",
+      "featured": false,
+      "minVersion": "1.0",
+      "category": "brain",
+      "appStoreId": "6825840603"
     }
   ]
 }
